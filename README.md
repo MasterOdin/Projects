@@ -54,7 +54,6 @@ Classic Algorithms
 
 **Sieve of Eratosthenes** - The sieve of Eratosthenes is one of the most efficient ways to find all of the smaller primes (below 10 million or so).
 
-
 Graph
 --------
 **Graph from links** - Create a program that will create a graph or network from a series of links.
@@ -70,17 +69,16 @@ Data Structures
 
 **Inverted index** - An [Inverted Index](http://en.wikipedia.org/wiki/Inverted_index) is a data structure used to create full text search. Given a set of text files, implement a program to create an inverted index. Also create a user interface to do a search using that inverted index which returns a list of files that contain the query term / terms. The search index can be in memory.
 
-
 Text
 ---------
 
-**Reverse a String** - Enter a string and the program will reverse it and print it out.
+[**Reverse a String**](https://github.com/MasterOdin/Projects/blob/master/Text/reverse.py) - Enter a string and the program will reverse it and print it out.
 
 **Pig Latin** - Pig Latin is a game of alterations played on the English language game. To create the Pig Latin form of an English word the initial consonant sound is transposed to the end of the word and an ay is affixed (Ex.: "banana" would yield anana-bay). Read Wikipedia for more information on rules.
 
-**Count Vowels** - Enter a string and the program counts the number of vowels in the text. For added complexity have it report a sum of each vowel found.
+[**Count Vowels**](https://github.com/MasterOdin/Projects/blob/master/Text/vowel_count.py) - Enter a string and the program counts the number of vowels in the text. For added complexity have it report a sum of each vowel found.
 
-**Check if Palindrome** - Checks if the string entered by the user is a palindrome. That is that it reads the same forwards as backwards like “racecar”
+[**Check if Palindrome**](https://github.com/MasterOdin/Projects/blob/master/Text/palindrome.py) - Checks if the string entered by the user is a palindrome. That is that it reads the same forwards as backwards like “racecar”
 
 **Count Words in a String** - Counts the number of individual words in a string. For added complexity read these strings in from a text file and generate a summary.
 
